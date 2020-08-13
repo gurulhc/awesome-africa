@@ -1,4 +1,4 @@
-# Awesome African [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Africa [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > 📔 📚 Awesome Africa is a curated list of awesome African blockchain communities with resources: books, videos, articles, demos, tutorials organized for ease of access.
 
